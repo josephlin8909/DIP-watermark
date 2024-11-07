@@ -1,3 +1,3 @@
 # DIP_watermark
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josephlin8909/DIP-watermark/blob/main/watermark_removal.ipynb)
+This project explores watermark embedding and removal in images using Deep Image Prior (DIP), a neural network approach that reconstructs images without the need for pre-trained models.
